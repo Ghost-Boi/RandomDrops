@@ -2,6 +2,6 @@ name: RandomDrops
 version: ${project.version}
 main: com.ghostboi.randomdrops.RandomDrops
 api-version: 1.16
-prefix: [ RandomDrops ]
+prefix: RandomDrops
 authors: [ Ghost_Boi ]
 description: When a block gets broken it will drop a random amount of items 

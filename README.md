@@ -1,2 +1,2 @@
-# Minecraft-Plugins
-A collection of all of my minecraft spigot plugins
+# Random Drops
+When a block gets broken it will drop a random amount of items

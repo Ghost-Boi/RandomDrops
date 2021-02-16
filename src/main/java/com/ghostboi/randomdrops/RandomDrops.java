@@ -7,7 +7,7 @@ public final class RandomDrops extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        System.out.println("Plugin Loaded!");
+        System.out.println("[RandomDrops] Plugin Loaded!");
 
         getServer().getPluginManager().registerEvents(new BreakBlock(), this);
     }
